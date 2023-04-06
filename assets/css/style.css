@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Schibsted+Grotesk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&family=Raleway&display=swap');
 
 * {
     margin: 0;
@@ -6,12 +6,12 @@
     border: none;
 }
 
-body {
-    font-family: 'Schibsted Grotesk', sans-serif;
+body, h3 {
+    font-family: 'Raleway', sans-serif;
 }
 
-h1, h2, h3, #nav-links {
-    font-family: 'Abril Fatface', cursive;
+h1, h2, #nav-links {
+    font-family: 'Playfair Display', serif;
     text-transform: capitalize;
 }
 
