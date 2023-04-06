@@ -18,13 +18,11 @@ h1, h2, h3, #nav-links {
 /* Navigation bar */
 
 .nav-bar {
-    background-color: red;
     display: flex;
     justify-content: space-between;
 }
 
 #nav-logo {
-    background-color: yellow;
     margin-left: 30px;
     display: flex;
     flex-direction: column;
@@ -32,13 +30,11 @@ h1, h2, h3, #nav-links {
 }
 
 #nav-links {
-    background-color: green;
     font-size: 130%;
     display: flex;
 }
 
 #nav-links li {
-    background-color: blueviolet;
     list-style-type: none;
     padding: 0 30px;
 }
