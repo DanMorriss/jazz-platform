@@ -10,9 +10,39 @@ body {
     font-family: 'Schibsted Grotesk', sans-serif;
 }
 
-h1 h2 {
+h1, h2, h3, #nav-links {
     font-family: 'Abril Fatface', cursive;
     text-transform: capitalize;
+}
+
+/* Navigation bar */
+
+.navigation {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-logo {
+    background-color: yellow;
+    float: left;
+    margin-left: 30px;
+}
+
+#nav-links {
+    background-color: green;
+    font-size: 130%;
+    display: flex;
+}
+
+#nav-links li {
+    background-color: blueviolet;
+    list-style-type: none;
+    padding: 0 30px;
+}
+
+#nav-links, #logo {
+    line-height: 75px;
 }
 
 /* Hero image and title */
