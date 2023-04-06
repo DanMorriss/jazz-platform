@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Schibsted+Grotesk&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+h1 h2 {
+    font-family: 'Abril Fatface', cursive;
+    text-transform: capitalize;
+}
+
+/* Hero image and title */
+
+.hero {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-text {
+    color:antiquewhite;
+    position: absolute;
+    top: 250px;
+    right: 150px;
+    padding: 25px;
+    background-color: rgba(52, 49, 68, 0.7);
+    border-radius: 15px;
+}
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg') no-repeat center right;
+
+}
+
