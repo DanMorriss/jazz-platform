@@ -25,8 +25,10 @@ h1, h2, #nav-links {
 }
 
 #nav-logo {
+    font-size: 150%;
     letter-spacing: 2px;
     margin-left: 30px;
+
     display: flex;
     /* flex-direction: column; */
     /* justify-content: center; */
@@ -45,6 +47,21 @@ h1, h2, #nav-links {
 
 #nav-links, #logo {
     line-height: 75px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#nav-links a:hover {
+    border-bottom: 1px solid black;
+    color: inherit;
+}
+
+#current-page {
+    border: 2px solid black;
+    padding: 4px 6px;
 }
 
 /* Hero image and title */
