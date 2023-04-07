@@ -8,11 +8,13 @@
 
 body, h3 {
     font-family: 'Raleway', sans-serif;
+    color: #261C1C;
 }
 
 h1, h2, #nav-links {
     font-family: 'Playfair Display', serif;
     text-transform: capitalize;
+    color: #261C1C;
 }
 
 /* Navigation bar */
@@ -22,6 +24,7 @@ h1, h2, #nav-links {
     justify-content: space-between;
     align-items: baseline;
     flex-wrap: wrap;
+    background-color: #D99177;
 }
 
 #nav-logo {
