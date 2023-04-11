@@ -32,8 +32,6 @@ h1, h2, #nav-links {
     letter-spacing: 2px;
     margin-left: 30px;
     display: flex;
-    /* flex-direction: column; */
-    /* justify-content: center; */
 }
 
 #nav-logo h1 {
@@ -78,11 +76,6 @@ h1, h2, #nav-links {
     width: 100%;
     overflow: hidden;
     position: relative;
-
-    /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; */
 }
 
 #hero-text {
@@ -91,7 +84,6 @@ h1, h2, #nav-links {
     right: 20px;
     padding: 25px;
     background-color: rgba(52, 49, 68, 0.7);
-    /* border-radius: 15px; */
     max-width: 350px;
 }
 
@@ -105,6 +97,20 @@ h1, h2, #nav-links {
     width: 100%;
     background: url('../images/hero-image3.jpg') no-repeat center center;
 
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+	/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 
 /* join-us section */
@@ -112,7 +118,6 @@ h1, h2, #nav-links {
 .join-us {
     padding: 20px;
     display: flex;
-    /* flex-direction: row; */
     justify-content: space-around;
     align-items: center;
     background-color: #D9C8BF;
@@ -138,3 +143,4 @@ h1, h2, #nav-links {
     justify-content: space-around;
     flex-direction: column;
 }
+
