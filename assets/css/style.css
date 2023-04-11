@@ -95,7 +95,8 @@ h1, h2, #nav-links {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image3.jpg') no-repeat center center;
+    background: url('../images/hero-image3.jpg');
+    background-size: cover;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -142,5 +143,30 @@ h1, h2, #nav-links {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
+}
+
+/* the next event section */
+
+#the-next-event h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+#the-next-event {
+    background-image: url(../images/hero-image2.jpg);
+    padding: 20px;
+    background-size: cover;
+}
+
+#next-event-info {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#when-and-where, #open-numbers {
+    border: 1px solid #261C1C;
+    padding: 20px;
+    text-align: center;
 }
 
