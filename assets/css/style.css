@@ -178,6 +178,31 @@ h1, h2, #nav-links {
     text-align: center;
     display: flex;
     flex-direction: column;
-    /* align-items: flex-start; */
 }
 
+/* map */
+
+#map {
+    display: flex;
+    justify-content: center;
+    background-color: #D9C8BF;
+}
+
+#map iframe {
+    margin: 10px;
+}
+
+/* footer */
+
+#social-icons {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 40px 0;
+    background-color: #261C1C;
+}
+
+#social-icons a {
+    font-size: 150%;
+    color: #D9C8BF;
+}
