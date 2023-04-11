@@ -78,6 +78,11 @@ h1, h2, #nav-links {
     width: 100%;
     overflow: hidden;
     position: relative;
+
+    /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
 }
 
 #hero-text {
@@ -98,8 +103,31 @@ h1, h2, #nav-links {
 
 /* join-us section */
 
-#join-us-image {
-    height: 400px;
-    width: 100%;
+.join-us {
+    padding: 20px;
     display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+    align-items: center;
+}
+
+#join-us-image {
+    display: flex;
+}
+
+#join-us-image img {
+    border-radius: 150px;
+}
+
+#watch, #perform {
+    height: 150px;
+    width: 300px;
+    border: 1px solid #261C1C;
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    min-width: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
