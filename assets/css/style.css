@@ -150,12 +150,20 @@ h1, h2, #nav-links {
 #the-next-event h2 {
     text-align: center;
     padding: 20px;
+    color: #D9C8BF;
+}
+#join-intro-text {
+    margin: 0 150px 40px 150px;
+    text-align: center;
 }
 
 #the-next-event {
+    background-color: #735448cb;
     background-image: url(../images/hero-image2.jpg);
-    padding: 20px;
+    background-blend-mode: multiply;
+    padding: 20px 20px 200px 20px;
     background-size: cover;
+    color: #D9C8BF;
 }
 
 #next-event-info {
@@ -165,8 +173,11 @@ h1, h2, #nav-links {
 }
 
 #when-and-where, #open-numbers {
-    border: 1px solid #261C1C;
+    border: 1px solid #D9C8BF;
     padding: 20px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
 }
 
