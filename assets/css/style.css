@@ -206,3 +206,38 @@ h1, h2, #nav-links {
     font-size: 150%;
     color: #D9C8BF;
 }
+
+/* media queries for tablets and phones */
+
+@media screen and (max-width: 810px) {
+    .join-us{
+        flex-direction: column;
+    }
+
+    #join-us-image {
+        order: 1;
+        padding-top: 5px;
+    }
+    #watch, #perform {
+        border: none;
+        padding: 5px;
+        margin: 0;
+    }
+
+    #join-intro-text {
+        margin: 0 20px 40px 20px;
+    }
+
+    #next-event-info {
+        flex-direction: column;
+    }
+
+    #the-next-event {
+        padding: 20px 20px 40px 20px;
+    }
+
+    #when-and-where, #open-numbers {
+        border: none;
+        padding: 0;
+    }
+}
