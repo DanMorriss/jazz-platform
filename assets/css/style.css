@@ -86,14 +86,20 @@ h1, h2, #nav-links {
 }
 
 #hero-text {
-    color:antiquewhite;
     position: absolute;
     top: 250px;
-    right: 150px;
+    right: 20px;
     padding: 25px;
     background-color: rgba(52, 49, 68, 0.7);
-    border-radius: 15px;
+    /* border-radius: 15px; */
+    max-width: 350px;
 }
+
+#hero-text h2 {
+    color: #D9C8BF;
+    text-align: center;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
