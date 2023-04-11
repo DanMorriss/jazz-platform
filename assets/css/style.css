@@ -115,6 +115,7 @@ h1, h2, #nav-links {
     /* flex-direction: row; */
     justify-content: space-around;
     align-items: center;
+    background-color: #D9C8BF;
 }
 
 #join-us-image {
