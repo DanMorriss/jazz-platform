@@ -207,6 +207,12 @@ h1, h2, #nav-links {
     color: #D9C8BF;
 }
 
+/* house band */
+
+#band-title {
+    text-align: center;
+}
+
 /* media queries for tablets and phones */
 
 @media screen and (max-width: 810px) {
