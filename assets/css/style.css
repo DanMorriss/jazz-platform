@@ -9,6 +9,7 @@
 body, h3 {
     font-family: 'Raleway', sans-serif;
     color: #261C1C;
+    text-align: center;
 }
 
 h1, h2, #nav-links {
@@ -209,8 +210,32 @@ h1, h2, #nav-links {
 
 /* house band */
 
+#house-band {
+    background-color: #D9C8BF;
+    color: #261C1C;
+    display: flex;
+    flex-direction: column;
+}
+
 #band-title {
     text-align: center;
+    padding: 10px 0;
+    font-size: 200%;
+}
+
+.member-title {
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+    font-size: 150%;
+}
+
+.member a {
+    text-decoration: none;
+}
+
+a {
+    border-bottom: 1px solid #261C1C;
+    background-color: red;
 }
 
 /* media queries for tablets and phones */
