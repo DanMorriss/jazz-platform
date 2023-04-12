@@ -233,6 +233,7 @@ h1, h2, #nav-links {
     text-decoration: none;
 }
 
+/* not working yet? */
 .member a:hover {
     border-bottom: 1px solid #261C1C;
 }
@@ -264,6 +265,38 @@ h1, h2, #nav-links {
 .member-info a:hover {
     border-bottom: 1px solid #261C1C;
 }
+
+/* contact */
+
+#form-section { 
+    background: url('../images/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+
+    /* height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg');
+    background-size: cover; */
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(217, 200, 191, 0.6);
+    max-width: 550px;
+    height: 400px;
+    padding: 30px;
+    margin: 50px 0;
+   
+}
+
+.form-question {
+    padding: 5px;
+}
+
 
 /* media queries for tablets and phones */
 
