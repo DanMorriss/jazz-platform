@@ -285,7 +285,7 @@ h1, h2, #nav-links {
     max-width: 410px;
     padding: 30px;
     margin: 50px 0;
-    height: 500px
+    height: 600px
 }
 
 .form-question {
@@ -312,7 +312,7 @@ form, h2 {
 }
 
 label {
-    padding: 0 6px;
+    padding: 6px;
 }
 
 #fname,#lname, #email, #song {
@@ -335,6 +335,18 @@ textarea {
     height: 6em;
 }
 
+#submit {
+    height: 2.5em;
+    width: 9em;
+    align-self: center;
+    background-color: #8C2034;
+    border: 1px solid #D9C8BF;
+    color: #D9C8BF;
+    margin-top: 12px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+}
 
 /* media queries for tablets and phones */
 
