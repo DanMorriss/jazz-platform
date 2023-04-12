@@ -32,7 +32,6 @@ h1, h2, #nav-links {
     font-size: 150%;
     letter-spacing: 2px;
     margin-left: 30px;
-    display: flex;
 }
 
 #nav-logo h1 {
@@ -269,6 +268,12 @@ h1, h2, #nav-links {
 /* media queries for tablets and phones */
 
 @media screen and (max-width: 810px) {
+    
+    .nav-bar {
+        flex-direction: column;
+        align-items: center;
+    }
+
     .join-us{
         flex-direction: column;
     }
@@ -303,5 +308,4 @@ h1, h2, #nav-links {
     .member {
         flex-direction: column;
     }
-
 }
