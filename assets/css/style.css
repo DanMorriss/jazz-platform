@@ -302,7 +302,7 @@ h1, h2, #nav-links {
     align-items: flex-start;
 }
 
-form, h2 {
+form h2 {
     color: #D9C8BF;
 }
 
