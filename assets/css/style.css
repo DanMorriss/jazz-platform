@@ -285,7 +285,7 @@ h1, h2, #nav-links {
 #form {
     display: flex;
     flex-direction: column;
-    background-color: rgba(217, 200, 191, 0.6);
+    background-color: rgba(38, 28, 28, 0.6);
     max-width: 450px;
     /* height: 400px; */
     padding: 30px;
@@ -295,8 +295,21 @@ h1, h2, #nav-links {
 
 .form-question {
     padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
+#instrument-question {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+form, h2 {
+    color: #D9C8BF;
+}
 
 /* media queries for tablets and phones */
 
