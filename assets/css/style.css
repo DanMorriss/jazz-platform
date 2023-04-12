@@ -215,6 +215,7 @@ h1, h2, #nav-links {
     color: #261C1C;
     display: flex;
     flex-direction: column;
+    padding: 0 50px;
 }
 
 #band-title {
@@ -233,9 +234,28 @@ h1, h2, #nav-links {
     text-decoration: none;
 }
 
-a {
+.member a:hover {
     border-bottom: 1px solid #261C1C;
-    background-color: red;
+}
+
+.member {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.member-odd {
+    flex-direction: row-reverse;
+}
+
+.member-picture {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}
+
+.member-info {
+    padding: 10px 20px;
 }
 
 /* media queries for tablets and phones */
