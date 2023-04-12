@@ -258,6 +258,14 @@ h1, h2, #nav-links {
     padding: 10px 20px;
 }
 
+.member-info h4 {
+    padding: 5px 0;
+}
+
+.member-info a:hover {
+    border-bottom: 1px solid #261C1C;
+}
+
 /* media queries for tablets and phones */
 
 @media screen and (max-width: 810px) {
@@ -291,4 +299,9 @@ h1, h2, #nav-links {
         border: none;
         padding: 0;
     }
+
+    .member {
+        flex-direction: column;
+    }
+
 }
