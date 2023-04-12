@@ -306,6 +306,10 @@ form h2 {
     color: #D9C8BF;
 }
 
+form {
+    color: #D9C8BF;
+}
+
 #instrument-options {
     display: flex;
     flex-wrap: wrap;
