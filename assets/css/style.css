@@ -365,7 +365,12 @@ textarea {
     font-size: 1em;
 }
 
-
+#thanks {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 /* media queries for tablets and phones */
 
