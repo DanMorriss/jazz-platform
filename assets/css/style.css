@@ -129,6 +129,8 @@ h1, h2, #nav-links {
 
 #join-us-image {
     display: flex;
+    height: 300px;
+    width: 300px;
 }
 
 #join-us-image img {
