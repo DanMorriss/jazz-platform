@@ -124,7 +124,7 @@ h1, h2, #nav-links {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #D9C8BF;
+    background-image: linear-gradient(to top right, #D9C8BF, #D99177);
 }
 
 #join-us-image {
@@ -188,7 +188,7 @@ h1, h2, #nav-links {
 #map {
     display: flex;
     justify-content: center;
-    background-color: #D9C8BF;
+    background-image: linear-gradient(to top right, #D9C8BF, #D99177);
 }
 
 #map iframe {
@@ -213,7 +213,7 @@ h1, h2, #nav-links {
 /* house band */
 
 #house-band {
-    background-color: #D9C8BF;
+    background-image: linear-gradient(to top right, #D9C8BF, #D99177);
     color: #261C1C;
     display: flex;
     flex-direction: column;
