@@ -247,6 +247,10 @@ h1, h2, #nav-links {
     align-items: center;
 }
 
+.member p {
+    text-align: justify;
+}
+
 .member-odd {
     flex-direction: row-reverse;
 }
