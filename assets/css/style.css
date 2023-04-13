@@ -406,4 +406,8 @@ textarea {
     .member {
         flex-direction: column;
     }
+
+    .member-info {
+        width: 80vw;
+    }
 }
