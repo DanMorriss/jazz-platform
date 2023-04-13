@@ -247,6 +247,10 @@ h1, h2, #nav-links {
     align-items: center;
 }
 
+#band-bio {
+    text-align: justify;
+}
+
 .member p {
     text-align: justify;
 }
