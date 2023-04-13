@@ -364,6 +364,10 @@ textarea {
         align-items: center;
     }
 
+    #nav-logo {
+        margin-left: 5px;
+    }
+
     .join-us{
         flex-direction: column;
     }
