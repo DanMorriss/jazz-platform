@@ -237,7 +237,7 @@ h1, h2, #nav-links {
 }
 
 /* not working yet? */
-.member a:hover {
+.member-info a:hover {
     border-bottom: 1px solid #261C1C;
 }
 
