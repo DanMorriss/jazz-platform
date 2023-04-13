@@ -370,6 +370,16 @@ textarea {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-image: linear-gradient(to top right, #D9C8BF, #D99177, #735448);
+}
+
+#thanks h2 {
+    text-transform: none;
+    padding-bottom: 5px;
+}
+
+#thanks h3 {
+    font-size: 1.5em;
 }
 
 /* media queries for tablets and phones */
