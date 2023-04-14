@@ -26,8 +26,8 @@
   ![Desktop view of the navigation menu](assets/images/nav-desktop.png)
 
   #### Navigation menu: Tablet view
-  ![Desktop view of the navigation menu](assets/images/nav-tablet.png)
+  ![Tablet view of the navigation menu](assets/images/nav-tablet.png)
   
   #### Navigation menu: Mobile view
-  ![Desktop view of the navigation menu](assets/images/nav-mobile.png)
+  ![Phone view of the navigation menu](assets/images/nav-phone.png)
   
