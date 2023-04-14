@@ -14,11 +14,20 @@
 
 - __Navigation Bar__
 
-  - Fully respnsve menue 
+  - Fully respnsve menu 
   - Makes navigating between the different pages in the site easy, avouding use of the back button.
   - identical and accesible on all of the sites pages including:
     - Site title
     - Home
     - House Band
     - Contact
+  
+  #### Navigation menu: Desktop view
+  ![Desktop view of the navigation menu](assets/images/nav-desktop.png)
+
+  #### Navigation menu: Tablet view
+  ![Desktop view of the navigation menu](assets/images/nav-tablet.png)
+  
+  #### Navigation menu: Mobile view
+  ![Desktop view of the navigation menu](assets/images/nav-mobile.png)
   
