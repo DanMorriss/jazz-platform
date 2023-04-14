@@ -7,7 +7,7 @@
 
 ### [Project Repository](https://github.com/DanMorriss/jazz-platform)
 
-![Responsive mockup](https://github.com/danmorriss/jazz-platform/assets/images/marlborough-jazz-platform-mockup)
+![Responsive mockup](assets/images/marlborough-jazz-platform-mockup.png)
 
 ## Features
 ### Existing Features
