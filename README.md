@@ -55,3 +55,15 @@ __Navigation menu: Mobile view__
 - This section will grab the users attention and give a feel for the atmosphere you can expect at the live event.
 
 ![Hero image and overlaying text](assets/images/hero-section.png)
+
+#### Join Us Section
+- The Join us section outlines the reasons for coming to one of the jazz platform nights for both players and audience members.
+- As well as encouraging users to come this gives them a better understanding of what to expect when they do come.
+
+![Join us section](assets/images/join-us-section.png)
+
+#### The Next night Section
+- The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
+- The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
+
+![The Next Night section](assets/images/the-next-night.png)
