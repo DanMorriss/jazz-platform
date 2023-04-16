@@ -53,3 +53,5 @@ __Navigation menu: Mobile view__
 #### Landing Page - Hero Image
 - The site startis with an image of a double bass player and a drummer performing with overlaying text explaning what the site is for.
 - This section will grab the users attention and give a feel for the atmosphere you can expect at the live event.
+
+![Hero image and overlaying text](assets/images/hero-section.png)
