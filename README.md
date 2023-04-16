@@ -59,11 +59,19 @@ __Navigation menu: Mobile view__
 #### Join Us Section
 - The Join us section outlines the reasons for coming to one of the jazz platform nights for both players and audience members.
 - As well as encouraging users to come this gives them a better understanding of what to expect when they do come.
+- The three collumns in this section stack for smaller screens to increase userbillity.
 
 ![Join us section](assets/images/join-us-section.png)
 
 #### The Next night Section
 - The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
 - The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
+- The two collumns in this section stack for smaller screens to increase userbillity.
 
 ![The Next Night section](assets/images/the-next-night.png)
+
+#### Map
+
+- The interactive map in this section will help people find the venue for the next event.
+
+![The Next Night section](assets/images/map.png)
