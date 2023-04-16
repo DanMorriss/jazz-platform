@@ -31,7 +31,6 @@ the right side of the menu link to the other sites pages and drop below the logo
     - Contact
 - The menu makes navigating between the different pages in the site easy, avouding use of the back button.
    
-  
 __Navigation menu: Desktop view__
 ![Desktop view of the navigation menu](assets/images/nav-desktop.png)
 
@@ -40,15 +39,6 @@ __Navigation menu: Tablet view__
   
 __Navigation menu: Mobile view__
 ![Phone view of the navigation menu](assets/images/nav-phone.png)
-  
-#### Footer
-- All the pages also have the same footer with social icon links to:
-    - Facebook
-    - Instagram
-    - YouTube
-
-
-![Footer with social links](assets/images/footer.png)
 
 #### Landing Page - Hero Image
 - The site startis with an image of a double bass player and a drummer performing with overlaying text explaning what the site is for.
@@ -75,3 +65,12 @@ __Navigation menu: Mobile view__
 - The interactive map in this section will help people find the venue for the next event.
 
 ![The Next Night section](assets/images/map.png)
+
+#### Footer
+- All the pages in the site have links to all the platforms social media accounts:
+    - Facebook
+    - Instagram
+    - YouTube
+
+
+![Footer with social links](assets/images/footer.png)
