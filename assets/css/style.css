@@ -238,9 +238,9 @@ h1, h2, #nav-links {
     text-decoration: none;
 }
 
-/* not working yet? */
-.member-info a:hover {
+#band-hover :hover {
     border-bottom: 1px solid #261C1C;
+    display: inline-block;
 }
 
 .member {
