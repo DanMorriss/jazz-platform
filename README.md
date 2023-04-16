@@ -103,3 +103,8 @@ __House Band: Mobile View__
 - The styling of the form is in keeping with the rest of the site to keep excitememt up and encourage attendance at the live event.
 
 ![Contact Form](assets/images/contact-form.png)
+
+#### Contact Form Sucess Page
+- Once a user has successfully filled out the contact form they are redirected to this page letting them know they have been successful.
+
+![Contact Form success page](assets/images/success-page.png)
