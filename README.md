@@ -74,3 +74,19 @@ __Navigation menu: Mobile view__
 
 
 ![Footer with social links](assets/images/footer.png)
+
+#### House Band
+- The house band page has an small bio at the top of the page instoducing the band as a whole, this should build anticipation and excitement for and encourage the viewer to read the individual bios of the members of the house band including:
+    - Miles Davis: Trumpet
+    - Django Reinhardt: Guitar
+    - Herbie Hancock: Keys
+    - Jaco Pastorious: Bass
+    - Steve Gadd: Drums
+- On a desktop and laptop this page will alternate between the image of the band member oeing on the left and the bio on the right to the image being on the left and the bio on the right. But, for smaller screen sizes sll the information will stack to make it easier to read.
+- The band members names are clickable links to theri official webites or wikipedia pages that have an underlien affect when hovered over. This is to build continuity between the navigation section of the site.
+
+__House Band: Desktop View__
+![Desktop view of the navigation menu](assets/images/house-band-desktop.png)
+
+__House Band: Mobile View__
+![Tablet view of the navigation menu](assets/images/house-band-mobile.png)
