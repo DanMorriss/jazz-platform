@@ -86,7 +86,20 @@ __Navigation menu: Mobile view__
 - The band members names are clickable links to theri official webites or wikipedia pages that have an underlien affect when hovered over. This is to build continuity between the navigation section of the site.
 
 __House Band: Desktop View__
-![Desktop view of the navigation menu](assets/images/house-band-desktop.png)
+![Desktop view of the house band page](assets/images/house-band-desktop.png)
 
 __House Band: Mobile View__
-![Tablet view of the navigation menu](assets/images/house-band-mobile.png)
+![Mobile view of the house band page](assets/images/house-band-mobile.png)
+
+#### Contact Form
+- To open up communication with people interested in coming to one of the events there is a contact form asking:
+    - First Name
+    - Last Name
+    - Email Address
+    - Message
+    - Instrument
+    - Song Request
+- The Name, email, message and instrument sections are mandatory but the song request isn't as not everyone sending a message will have a song request.
+- The styling of the form is in keeping with the rest of the site to keep excitememt up and encourage attendance at the live event.
+
+![Contact Form](assets/images/contact-form.png)
