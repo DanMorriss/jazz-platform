@@ -209,6 +209,8 @@ While designing and coding the site I have tried to be as consious about the usa
 
 ## Testing
 
+Testing using the Google Chrome Dev Tools was used throught the build of the site. Below you can see the results of the W3C HTML and CSS checksrs for the finshed site.
+
 ### W3C HTML Checker
 
 ![W3C HTML Checker, no faults found](assets/images/html-validation.png)
@@ -217,6 +219,21 @@ While designing and coding the site I have tried to be as consious about the usa
 
 ![W3C CSS Checker, no faults found](assets/images/css-validation.png)
 
+## Bugs
+
+### Solved Bugs
+The following bugs were encountered during the build of the site:
+- To get the navigation menu to stick to the left and right sides of the page I needed to put the page title and the links to the other pages in their own flexboxes.
+- When using flexbox inside flexbox I had to experiment with using the correct alignment: `justfy-content` or `align-items`.
+- The contact form was not filling the whole screen, there was a white space at the bottom of the page, tis was fixed by adding a min-height of 80vp to the form-section div.
+- There was a white space to the right hand side of the screen on mobile devices tahta was caused by the navigation flexbox section ovreflowing. I fixed this by adding `max-width: 100vw;` and reducing the pdding inside a `@media` query.
+- The comment box in the contact form was not transparent, this was fixed by targeting the textare property in the CSS.
+- The hover on the house band members names wasn't working. This was fixed by add in spesificty to the `:hover` CSS rule by using an `id` instead of a `class`.
+- The H1 on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
+- Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
+
+### Unsolved Bugs
+There are no known unsolved bugs in the site.
 ## Deployment
 
 GitHub pages was used to deploy the live site as follows:
@@ -227,3 +244,4 @@ GitHub pages was used to deploy the live site as follows:
 5. Under the 'Build and Deployment' section select the `Deploy from a branch` from the dropdown menu
 6. Select the `main` and `/root` dropdown menu options
 7. Click `save` and after a few minutes the site was live 
+
