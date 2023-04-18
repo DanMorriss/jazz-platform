@@ -50,7 +50,14 @@ The [Adoble Color](https://www.color.adobe.com) website was used for the color p
 
 ### Typography
 
+Google fonts was used for the following fonts
+- Playfair Display
+- Raleway
+
 ### Imagry
+
+- The live music images were all taken from stock image library in [Canva](https://www.canva.com)
+- The band member images are all creditied below
 
 ### Wireframes
 
