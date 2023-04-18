@@ -226,10 +226,12 @@ The following bugs were encountered during the build of the site:
 - To get the navigation menu to stick to the left and right sides of the page I needed to put the page title and the links to the other pages in their own flexboxes.
 - When using flexbox inside flexbox I had to experiment with using the correct alignment: `justfy-content` or `align-items`.
 - The contact form was not filling the whole screen, there was a white space at the bottom of the page, tis was fixed by adding a min-height of 80vp to the form-section div.
+- The hero-image was too big and causing the loadtime to be slow so I replaced it with a smaller version.
+- The background image for the contact form was not in the position I wanted so I used the `background-size: cover;` and `background-position: center;` to get it where I wanted.
 - There was a white space to the right hand side of the screen on mobile devices tahta was caused by the navigation flexbox section ovreflowing. I fixed this by adding `max-width: 100vw;` and reducing the pdding inside a `@media` query.
 - The comment box in the contact form was not transparent, this was fixed by targeting the textare property in the CSS.
 - The hover on the house band members names wasn't working. This was fixed by add in spesificty to the `:hover` CSS rule by using an `id` instead of a `class`.
-- The H1 on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
+- The `H1` on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
 - Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
 
 ### Unsolved Bugs
