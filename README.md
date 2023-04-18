@@ -178,3 +178,31 @@ __House Band: Mobile View__
 - Once a user has successfully filled out the contact form they are redirected to this page letting them know they have been successful.
 
 ![Contact Form success page](assets/images/success-page.png)
+
+### Accesibility
+
+While designing and coding the site I have tried to be as consious about the usabillity of the site for users of all tipes, including screen readers. This includes:
+- Using semantic HTML
+- Adding alt or aria attributes on images and logos for screen readers
+- Ensuring there is good contrast between the background images/colors and the forground text
+- Making the menus accesible and indication what page the site in currently displaying
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Libraries & Programs
+- Balsamiq: used for the wireframes
+- Gitpod: used to write the code
+- Github: used to store the code
+- Google fonts: for the fonts
+- Canva: for the images
+- Font Awesome: for the icons
+- Google Developer Tools: to debug, troubleshoot and test the site
+- Am I Responsive?: Dor the display image across devices
+- Adobe Color: for the color pallet 
+- Web Aim: To check the contract for accesibility
+- W3C HTML checker: to check the HTML
+- W3C CSS checker: to check the CSS
