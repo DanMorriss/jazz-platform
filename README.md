@@ -1,6 +1,6 @@
 # Marlborough Jazz Platform
 
- A website for a fictional monthly jazz platform in Marlborough, Wiltshire.
+The Marlborough Jazz Platform is a monthly live event where jazz musicians come to perform with the house band. It’s a night that is suited to both players and audience members. Each month new songs will be performed so the event needs a home online where people can find out more information. That is the purpose of this site.
 
 ### [Live Site](https://danmorriss.github.io/jazz-platform/)
 
