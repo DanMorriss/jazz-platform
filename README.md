@@ -1,7 +1,6 @@
 # Marlborough Jazz Platform
 
  A website for a fictional monthly jazz platform in Marlborough, Wiltshire.
- The goal of the site is to make the night look inviting for both players and the general public while supplying information about the event and the house band.
 
 ### [Live Site](https://danmorriss.github.io/jazz-platform/)
 
@@ -11,13 +10,33 @@
 
 ## User Experience (UX)
 
-### Client Goals
+### Initial Discussion
+- The site's main goal is to make the night look inviting for both players and the general public while supplying information about the event and the house band. 
+- It is aimed at fans of:
+    - Jazz music 
+    - Live improvisational music
+    - Musical events
 
-### First Time Visitor Goals
+### User Stories
 
-### Returning Visitor Goals
+#### Client Goals
+- For the site to be responsive accross different device types and screen sizees
+- To have good accesibility with readable fonts and good screen reader prompts
+- To clearly explain what then Marlborough Jazz Platform is about and how to come to the next event
+- To be able to get in contact with the organizers 
 
-### Frequent Visitor Goals
+#### First Time Visitor Goals
+- Gain an understanding of what the jazz platform is
+- find out how to attend the next event
+- Find out inforrmation on the house band
+- Navigate the site easily
+
+#### Returning Visitor Goals
+- Find out what the open numbers for the upcoming night are
+- Find links to the social media accounts
+
+#### Frequent Visitor Goals
+- Message the organizers with song suggests and other queestons about the next event
 
 ## Design
 
