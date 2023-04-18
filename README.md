@@ -42,6 +42,12 @@
 
 ### Color Scheme
 
+To portray as much information as possible the colours of the site match the mood of one of the live events and blend in with the images that appear on the site.
+
+![Color theme](assets/images/color-theme.png)
+
+The [Adoble Color](https://www.color.adobe.com) website was used for the color palette. 
+
 ### Typography
 
 ### Imagry
