@@ -9,6 +9,26 @@
 
 ![Responsive mockup](assets/images/marlborough-jazz-platform-mockup.png)
 
+## User Experience (UX)
+
+### Client Goals
+
+### First Time Visitor Goals
+
+### Returning Visitor Goals
+
+### Frequent Visitor Goals
+
+## Design
+
+### Color Scheme
+
+### Typography
+
+### Imagry
+
+### Wireframes
+
 ## Features
 ### Existing Features
 
