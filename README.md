@@ -233,6 +233,7 @@ The following bugs were encountered during the build of the site:
 - The hover on the house band members names wasn't working. This was fixed by add in spesificty to the `:hover` CSS rule by using an `id` instead of a `class`.
 - The `H1` on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
 - Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
+- To improve the ligthouse score I added more `meta` tags to the site.
 
 ### Unsolved Bugs
 There are no known unsolved bugs in the site.
