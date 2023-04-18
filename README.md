@@ -61,6 +61,24 @@ Google fonts was used for the following fonts
 
 ### Wireframes
 
+#### Home Page: Desktop View
+![Desktop view of the home page](assets/images/home-wire.png)
+
+#### Home Page: Mobile View
+![Desktop view of the home page](assets/images/home-mobile-wire.png)
+
+#### House Band Page: Desktop View
+![Desktop view of the home page](assets/images/house-band-wire.png)
+
+#### House Band Page: Mobile View
+![Desktop view of the home page](assets/images/house-band-mobile-wire.png)
+
+#### Contact Page: Desktop View
+![Desktop view of the home page](assets/images/contact-wire.png)
+
+#### Contact Page: Mobile View
+![Desktop view of the home page](assets/images/contact-mobile-wire.png)
+
 ## Features
 ### Existing Features
 
