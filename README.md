@@ -209,12 +209,19 @@ While designing and coding the site I have tried to be as consious about the usa
 
 ## Testing
 
+### W3C HTML Checker
+
+![W3C HTML Checker, no faults found](assets/images/html-validation.png)
+
+### W3C CSS Checker
+
+![W3C CSS Checker, no faults found](assets/images/css-validation.png)
 
 ## Deployment
 
 GitHub pages was used to deploy the live site as follows:
 1. Login to GitHub
-2. Go to the repositry [DanMorriss/jazz-playform](https://github.com/DanMorriss/jazz-platform)
+2. Go to the repositry [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
 3. Click the `Settings` tab
 4. Click the `Pages` tab
 5. Under the 'Build and Deployment' section select the `Deploy from a branch` from the dropdown menu
