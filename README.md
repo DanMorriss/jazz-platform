@@ -72,26 +72,26 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 ### User Stories
 
 #### Client Goals
-- For the site to be responsive accross different device types and screen sizees
-- To have good accesibility with readable fonts and good screen reader prompts
-- To clearly explain what then Marlborough Jazz Platform is about and how to come to the next event
-- To be able to get in contact with the organizers 
+- For the site to be responsive across different device types and screen sizes.
+- To have good accessibility with readable fonts and good screen reader prompts.
+- To clearly explain what the Marlborough Jazz Platform is about and how to come to the next event.
+- To be able to get in contact with the organizers.
 
 [Back to top](<#contents>)
 #### First Time Visitor Goals
-- Gain an understanding of what the jazz platform is
-- find out how to attend the next event
-- Find out inforrmation on the house band
-- Navigate the site easily
+- Gain an understanding of what the jazz platform is.
+- find out how to attend the next event.
+- Find out information on the house band.
+- Navigate the site easily.
 
 [Back to top](<#contents>)
 #### Returning Visitor Goals
-- Find out what the open numbers for the upcoming night are
-- Find links to the social media accounts
+- Find out what the open numbers for the upcoming night are.
+- Find links to the social media accounts.
 
 [Back to top](<#contents>)
 #### Frequent Visitor Goals
-- Message the organizers with song suggests and other queestons about the next event
+- Message the organizers with song suggestions and other questions about the next event.
 
 [Back to top](<#contents>)
 ### Site Structure
@@ -101,7 +101,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     - House Band
     - Contact
     - Thank you page
-- All pages contain and are accesible via the navigation bar at the top of the page, except the thank you page which is displayed once you fill out the contact form.
+- All pages contain and are accessible via the navigation bar at the top of the page, except the thank you page which is displayed once you fill out the contact form.
 
 [Back to top](<#contents>)
 ### Wireframes
@@ -122,7 +122,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 
 ### Color Scheme
 
-To portray as much information as possible the colours of the site match the mood of one of the live events and blend in with the images that appear on the site.
+To portray as much information as possible the colors of the site match the mood of one of the live events and blend in with the images that appear on the site.
 
 ![Color theme](assets/images/color-theme.png)
 
@@ -131,7 +131,7 @@ The [Adoble Color](https://www.color.adobe.com) website was used for the color p
 [Back to top](<#contents>)
 ### Typography
 
-Google fonts was used for the following fonts
+[Google Fonts](https://fonts.google.com) was used for the following fonts:
 - Playfair Display
 - Raleway
 
@@ -139,23 +139,23 @@ Google fonts was used for the following fonts
 ### Imagry
 
 - The live music images were all taken from stock image library in [Canva](https://www.canva.com)
-- The band member images are all creditied below
+- The band member images are all credited below.
 
 [Back to top](<#contents>)
 ## Features
 ### Existing Features
 
 #### Navigation Bar
-- The nagivation menu is fully responsive, with different views for:
+- The navigation menu is fully responsive, with different views for:
     - Desktop
     - Tablet
     - Mobile
-- The left side of the nemue displays the sites logo that directs users back to the homepage.
-the right side of the menu link to the other sites pages and drop below the logo for smaller screen sizes.
+- The left side of the menu displays the sites logo that directs users back to the homepage.
+The right side of the menu link to the other sites pages and drop below the logo for smaller screen sizes.
     - Home
     - House Band
     - Contact
-- The menu makes navigating between the different pages in the site easy, avouding use of the back button.
+- The menu makes navigating between the different pages in the site easy, avoiding use of the back button.
    
 __Navigation menu: Desktop view__
 ![Desktop view of the navigation menu](assets/images/nav-desktop.png)
@@ -165,30 +165,30 @@ __Navigation menu: Tablet & Mobile View__
 
 [Back to top](<#contents>)
 #### Landing Page - Hero Image
-- The site startis with an image of a double bass player and a drummer performing with overlaying text explaning what the site is for.
-- This section will grab the users attention and give a feel for the atmosphere you can expect at the live event.
+- The site starts with an image of a double bass player and a drummer performing with overlaying text explaining what the site is for.
+- This section will grab the user's attention and give a feel for the atmosphere you can expect at the live event.
 
 ![Hero image and overlaying text on desktop and mobile](assets/images/hero-dm.png)
 
 [Back to top](<#contents>)
 #### Join Us Section
-- The Join us section outlines the reasons for coming to one of the jazz platform nights for both players and audience members.
+- The Join Us section outlines the reasons for coming to one of the jazz platform nights for both players and audience members.
 - As well as encouraging users to come this gives them a better understanding of what to expect when they do come.
-- The three collumns in this section stack for smaller screens to increase userbillity.
+- The three columns in this section stack for smaller screens to increase usabillity.
 
 ![Join us section on a desktop and mobile](assets/images/join-us-dm.png)
 
 [Back to top](<#contents>)
 #### The Next Night Section
-- The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
-- The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
-- The two collumns in this section stack for smaller screens to increase userbillity.
+- The Next Night Section gives more information on what to expect for one of the events. It outlines the time, date, and location of the event as well as the three open numbers that performers can join in with.
+- The background image in this section continues to enhance the atmosphere that can be expected at one of the live events.
+- The two collumns in this section stack for smaller screens to increase usabillity.
 - The interactive map in this section will help people find the venue for the next event.
 
 ![The Next Night section on a desktop and mobile](assets/images/next-night-dm.png)
 [Back to top](<#contents>)
 #### Footer
-- All the pages in the site have links to all the platforms social media accounts:
+- All the pages in the site have links to all the platform's social media accounts:
     - Facebook
     - Instagram
     - YouTube
@@ -198,14 +198,14 @@ __Navigation menu: Tablet & Mobile View__
 
 [Back to top](<#contents>)
 #### House Band
-- The house band page has an small bio at the top of the page instoducing the band as a whole, this should build anticipation and excitement for and encourage the viewer to read the individual bios of the members of the house band including:
+- The House Band page has a small bio at the top of the page introducing the band as a whole, this should build anticipation and excitement and encourage the viewer to read the individual bios of the members of the house band including:
     - Miles Davis: Trumpet
     - Django Reinhardt: Guitar
     - Herbie Hancock: Keys
     - Jaco Pastorious: Bass
     - Steve Gadd: Drums
-- On a desktop and laptop this page will alternate between the image of the band member oeing on the left and the bio on the right to the image being on the left and the bio on the right. But, for smaller screen sizes sll the information will stack to make it easier to read.
-- The band members names are clickable links to theri official webites or wikipedia pages that have an underlien affect when hovered over. This is to build continuity between the navigation section of the site.
+- On a desktop and laptop this page will alternate between the image of the band member being on the left and the bio on the right to the image being on the left and the bio on the right. But, for smaller screen sizes all the information will stack to make it easier to read.
+- The band members names are clickable links to their official webites or wikipedia pages that have an underline affect when hovered over. This is to build continuity between the navigation section of the site and the other clickable links.
 
 ![Desktop view of the house band page](assets/images/house-band-dm.png)
 
@@ -232,17 +232,17 @@ __Navigation menu: Tablet & Mobile View__
 [Back to top](<#contents>)
 ### Accesibility
 
-While designing and coding the site I have tried to be as consious about the usabillity of the site for users of all tipes, including screen readers. This includes:
+While designing and coding the site I have tried to be as conscious about the usability of the site for users of all types, including anyone using screen readers. This includes:
 - Using semantic HTML
 - Adding alt or aria attributes on images and logos for screen readers
-- Ensuring there is good contrast between the background images/colors and the forground text
-- Making the menus accesible and indication what page the site in currently displaying
+- Ensuring there is good contrast between the background images/colors and the foreground text
+- Making the menus accessible and indicating what page the site in currently displaying.
 
 [Back to top](<#contents>)
 ### Future Features
 
 - A video of the house band playing
-- A shop section for merchandice
+- A shop section for merchandise
 
 [Back to top](<#contents>)
 ## Technologies Used
@@ -258,10 +258,10 @@ While designing and coding the site I have tried to be as consious about the usa
 - [Google Fonts](https://fonts.google.com/): for the fonts
 - [Canva](https://www.canva.com/): for the images
 - [Font Awesome](https://fontawesome.com/): for the icons
-- Google Developer Tools: to debug, troubleshoot and test the site
-- [Am I Responsive?](https://ui.dev/amiresponsive): Dor the display image across devices
+- [Google DevTools](https://developer.chrome.com/docs/devtools/): to debug, troubleshoot and test the site
+- [Am I Responsive?](https://ui.dev/amiresponsive): For the display image across devices
 - [Adobe Color](https://color.adobe.com/create/color-wheel): for the color pallet 
-- [Web Aim](https://webaim.org/): To check the contract for accesibility
+- [Web Aim](https://webaim.org/): To check the contract for accessibility
 - [W3C HTML Validator](https://validator.w3.org/): to check the HTML
 - [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/): to check the CSS
 
@@ -269,7 +269,7 @@ While designing and coding the site I have tried to be as consious about the usa
 ## Testing
 
 ### Code Validation
-Testing using the Google Chrome Dev Tools was used throught the build of the site. Below you can see the results of the W3C HTML and CSS checksrs for the finshed site.
+Testing using the Google Chrome Dev Tools was used throughout the build of the site. Below you can see the results of the W3C HTML and CSS checkers for the finished site.
 
 #### W3C HTML Checker
 
@@ -286,24 +286,24 @@ Testing using the Google Chrome Dev Tools was used throught the build of the sit
 [Back to top](<#contents>)
 ### Responsiveness Test
 
-Responsive testing was done using [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/) and real-world tests were carried out on an MacBook Pro 16-inch and iPhone 13.
+Responsive testing was done using [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/) and real-world tests were carried out on a MacBook Pro 16-inch and iPhone 13.
 - All navigation links on all pages work as expected
 - All social links work on all pages work as expected
 - Link to all external band member's sites work, opening up in a new tab
 - All the images render correctly
-- There is no witespace around the page
+- There is no whitespace around the page
 
 #### Contact Form
 - First Name needs to be filled in
 - Last Name needs to be filled in
 - Email address needs to be filled in including an @ symbol
-- An Instrument option need to be selected
-- Once the form is filled in correctly you are succesfully sent to the success page
+- An Instrument option needed to be selected
+- Once the form is filled in correctly you are successfully sent to the success page
 
 [Back to top](<#contents>)
 ### Browser Compatibility
 
-The site was tested on the following browsers without any issues. Functuanility and responsivness were consistant across browsers.
+The site was tested on the following browsers without any issues. Functionality and responsiveness were consistent across browsers.
 - Google Chrome
 - Safari
 - Firefox
@@ -311,11 +311,11 @@ The site was tested on the following browsers without any issues. Functuanility 
 [Back to top](<#contents>)
 ### Peer Testing
 
-As well as testing myself the site was tested by three external users across a range of devices including smart phones, tablets and laptop computers. The site has also been sent for peer-code-review on the Code Institure Slack Channel. The following issues came up and have all be fixed.
-- Spelling mistake in Open numbers section
+As well as testing myself the site was tested by three external users across a range of devices including smart-phones, tablets, and laptop computers. The site has also been sent for `peer-code-review` on the Code Institute Slack Channel. The following issues came up and have all be fixed.
+- Spelling mistake in Open Numbers section
 - Gramor mistake in The Next Night Section
 - Outlined that an introduction to the house band members should be included
-- Formatting change to band member bio's to make reading easier
+- Formatting change to band member bios to make reading easier
 
 [Back to top](<#contents>)
 ## Bugs
@@ -323,17 +323,16 @@ As well as testing myself the site was tested by three external users across a r
 ### Solved Bugs
 The following bugs were encountered during the build of the site:
 - To get the navigation menu to stick to the left and right sides of the page I needed to put the page title and the links to the other pages in their own flexboxes.
-- When using flexbox inside flexbox I had to experiment with using the correct alignment: `justfy-content` or `align-items`.
+- When using flexbox inside flexbox I had to experiment with using the correct alignment: `justify-content` or `align-items`.
 - The contact form was not filling the whole screen, there was a white space at the bottom of the page, tis was fixed by adding a min-height of 80vp to the form-section div.
-- The hero-image was too big and causing the loadtime to be slow so I replaced it with a smaller version.
+- The hero-image was too big and caused the load time to be slow so I replaced it with a smaller version.
 - The background image for the contact form was not in the position I wanted so I used the `background-size: cover;` and `background-position: center;` to get it where I wanted.
-- There was a white space to the right hand side of the screen on mobile devices tahta was caused by the navigation flexbox section ovreflowing. I fixed this by adding `max-width: 100vw;` and reducing the pdding inside a `@media` query.
-- The comment box in the contact form was not transparent, this was fixed by targeting the textare property in the CSS.
+- There was a white space to the right-hand side of the screen on mobile devices that was caused by the navigation flexbox section ovreflowing. I fixed this by adding `max-width: 100vw;` and reducing the padding inside a `@media` query.
+- The comment box in the contact form was not transparent, this was fixed by targeting the textarea property in the CSS.
 - The hover on the house band members names wasn't working. This was fixed by add in spesificty to the `:hover` CSS rule by using an `id` instead of a `class`.
 - The `H1` on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
-- Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
-- To improve the ligthouse score I added more `meta` tags to the site.
-- Hero image was displaying a non-sensical section for mobile devises so moced the position.
+- Once the contact form had been filled out it was not sending you to the success.html page. This was fixed by removing the method tag and setting the action tag to `success.html`.
+- Hero image was displaying a non-sensical section for mobile devices so I moved the position.
 - On a tablet the next event and join-us sections had lot's of unused space so I added an extra media query for smaller screens.
 
 [Back to top](<#contents>)
@@ -346,7 +345,7 @@ There are no known unsolved bugs in the site.
 ### To Deploy the project
 GitHub pages was used to deploy the live site as follows:
 1. Login to GitHub
-2. Go to the repositry [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
+2. Go to the repository [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
 3. Click the `Settings` tab
 4. Click the `Pages` tab
 5. Under the 'Build and Deployment' section select the `Deploy from a branch` from the dropdown menu
@@ -356,10 +355,10 @@ GitHub pages was used to deploy the live site as follows:
 ![Deployment walkthrough image](assets/images/deployment.png)
 
 ### To Fork the project
-To make a copy of the GitHub Repository you can fork a copy to edit it without changing the root file. This can them be used to update the original repository. To fork take the following steps:
+To make a copy of the GitHub Repository you can fork a copy to edit it without changing the root file. This can then be used to update the original repository. To fork take the following steps:
 1. Login to GitHub
-2. Go to the repositry [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
-3. On the top right hand side of the page click the `fork` button and save a copy of the original repository to your GitHub account.
+2. Go to the repository [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
+3. On the top right-hand side of the page click the `fork` button and save a copy of the original repository to your GitHub account.
 
 ### To Clone the project
 To clone the project:
@@ -387,8 +386,8 @@ To clone the project:
 ## Acknowledgements
 
 - [Precious Ijege](https://github.com/precious-ijege), my Code Institute Mentor.
-- Kent Yates, for taking the time to test and review my site and suggesting some bug fixes for my house band members links.
-- Selina Sheerin, for taking the time to test and review my site and point out some spelling and grammor errors.
+- Kent Yates, for taking the time to test and review my site and suggesting some bug fixes for my house band member's links.
+- Selina Sheerin, for taking the time to test and review my site and point out some spelling and grammar errors.
 - Helen Asherson, for taking the time to test and review my site.
 - Abby Humphreys, for taking the time to respond to my peer code review request in slack.
 
