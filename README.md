@@ -181,16 +181,9 @@ __Navigation menu: Mobile view__
 - The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
 - The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
 - The two collumns in this section stack for smaller screens to increase userbillity.
-
-![The Next Night section](assets/images/the-next-night.png)
-
-[Back to top](<#contents>)
-#### Map
-
 - The interactive map in this section will help people find the venue for the next event.
 
-![The Next Night section](assets/images/map.png)
-
+![The Next Night section](assets/images/next-night.png)
 [Back to top](<#contents>)
 #### Footer
 - All the pages in the site have links to all the platforms social media accounts:
@@ -343,10 +336,6 @@ To clone the project:
 5. Change the current working directory to the location where you want the cloned directory to be made
 6. Type `git clone` and then paste the URL copied from GitHub
 7. Press enter and the local clone will be created
-
-
-
-
 
 [Back to top](<#contents>)
 ## Credits
