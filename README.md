@@ -283,9 +283,7 @@ Testing using the Google Chrome Dev Tools was used throught the build of the sit
 
 ### W3C HTML Checker
 
-#### Home Page
 ![W3C HTML Checker, no faults found](assets/images/html-validation.png)
-
 
 ### W3C CSS Checker
 
@@ -317,6 +315,7 @@ There are no known unsolved bugs in the site.
 [Back to top](<#contents>)
 ## Deployment
 
+### To Deploy the project
 GitHub pages was used to deploy the live site as follows:
 1. Login to GitHub
 2. Go to the repositry [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
@@ -325,6 +324,29 @@ GitHub pages was used to deploy the live site as follows:
 5. Under the 'Build and Deployment' section select the `Deploy from a branch` from the dropdown menu
 6. Select the `main` and `/root` dropdown menu options
 7. Click `save` and after a few minutes the site was live 
+
+![Deployment walkthrough image](assets/images/deployment.png)
+
+### To Fork the project
+To make a copy of the GitHub Repository you can fork a copy to edit it without changing the root file. This can them be used to update the original repository. To fork take the following steps:
+1. Login to GitHub
+2. Go to the repositry [DanMorriss/jazz-platform](https://github.com/DanMorriss/jazz-platform)
+3. On the top right hand side of the page click the `fork` button and save a copy of the original repository to your GitHub account.
+
+### To Clone the project
+To clone the project:
+1. Click the `code` button  
+2. Click the `local` tab
+3. Under HTTPS click the clipboard icon to copy the URL
+![clone walkthrough image](assets/images/clone.png)
+4. In your IDE of choice, open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made
+6. Type `git clone` and then paste the URL copied from GitHub
+7. Press enter and the local clone will be created
+
+
+
+
 
 [Back to top](<#contents>)
 ## Credits
