@@ -47,10 +47,9 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
         * [W3C HTML Checker](<#w3c-html-checker>)
         * [W3C CSS Checker](<#w3c-css-checker>)
         * [Lighthouse](<#lighthouse>)
-    * [Responsiveness Test](<>)
-    * [Browser Compatibility](<>)
-    * [Testing User Stories](<>)
-
+    * [Responsiveness Test](<#responsiveness-test>)
+    * [Browser Compatibility](<#browser-compatibility>)
+    * [Peer Testing](<#peer-testing>)
 * [**Bugs**](<#bugs>)
     * [Solved Bugs](<#solved-bugs>)
     * [Unsolved Bugs](<#unsolved-bugs>)
@@ -313,8 +312,13 @@ The site was tested on the following browsers without any issues. Functuanility 
 - Firefox
 
 [Back to top](<#contents>)
-### Testing User Stories
+### Peer Testing
 
+As well as testing myself the site was tested by three external users across a range of devices including smart phones, tablets and laptop computers. The site has also been sent for peer-code-review on the Code Institure Slack Channel. The following issues came up and have all be fixed.
+- Spelling mistake in Open numbers section
+- Gramor mistake in The Next Night Section
+- Outlined that an introduction to the house band members should be included
+- Formatting change to band member bio's to make reading easier
 
 [Back to top](<#contents>)
 ## Bugs
