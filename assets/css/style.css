@@ -423,10 +423,6 @@ textarea {
         margin: 0 20px 40px 20px;
     }
 
-    #next-event-info {
-        flex-direction: column;
-    }
-
     #the-next-event {
         padding: 20px 20px 40px 20px;
     }
@@ -442,5 +438,12 @@ textarea {
 
     .member-info {
         width: 80vw;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    #next-event-info {
+        flex-direction: column;
     }
 }
