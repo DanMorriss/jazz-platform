@@ -17,15 +17,16 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
         * [First Time Visitor Goals](<#first-time-visitor-goals>)
         * [Returning Visitor Goals](<#returning-visitor-goals>)
         * [Frequent Visitor Goals](<#frequent-visitor-goals>)
-* [**Design**](<#design>)
-    * [Color Scheme](<#color-scheme>)
-    * [Typography](<#typography>)
-    * [Imagry](<#imagry>)
+    * [Site Structure](<#site-structure>)
     * [Wireframes](<#wireframes>)
         * [Home Page: Desktop View](<#home-page-desktop-view>)
         * [House band Page: Desktop view](<#house-band-page-desktop-view>)
         * [Contact Page: Desktop View](<#contact-page-desktop-view>)
         * [Mobile View](<#mobile-view>)
+* [**Design**](<#design>)
+    * [Color Scheme](<#color-scheme>)
+    * [Typography](<#typography>)
+    * [Imagry](<#imagry>)
 * [**Features**](#features)
     * [Existing Features](<#existing-features>)
         * [Navigation Bar](<#navigation-bar>)
@@ -37,6 +38,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
         * [Contact Form](<#contact-form>)
         * [Contact Form Sucess Page](<#contact-form-sucess-page>)
     * [Accesibility](<#accesibility>)
+    * [Future Features](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
     * [Languages](<#languages>)
     * [Libraries & Programs](<#libraries--programs>)
@@ -47,6 +49,10 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     * [Solved Bugs](<#solved-bugs>)
     * [Unsolved Bugs](<#unsolved-bugs>)
 * [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [Content](<#content>)
+    * [Media](<#media>)
+* [**Acknowledgements**](<#acknowledgements>)
 
 ## User Experience (UX)
 
@@ -78,6 +84,29 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 #### Frequent Visitor Goals
 - Message the organizers with song suggests and other queestons about the next event
 
+### Site Structure
+
+- The site consists of 4 pages:
+    - Home
+    - House Band
+    - Contact
+    - Thank you page
+- All pages contain and are accesible via the navigation bar at the top of the page, except the thank you page which is displayed once you fill out the contact form.
+
+### Wireframes
+
+#### Home Page: Desktop View
+![Desktop view of the home page](assets/images/home-wire.png)
+
+#### House Band Page: Desktop View
+![Desktop view of the home page](assets/images/house-band-wire.png)
+
+#### Contact Page: Desktop View
+![Desktop view of the home page](assets/images/contact-wire.png)
+
+#### Mobile View
+![View of the mobile pages](assets/images/mobile-view-wire.png)
+
 ## Design
 
 ### Color Scheme
@@ -99,29 +128,8 @@ Google fonts was used for the following fonts
 - The live music images were all taken from stock image library in [Canva](https://www.canva.com)
 - The band member images are all creditied below
 
-### Wireframes
-
-#### Home Page: Desktop View
-![Desktop view of the home page](assets/images/home-wire.png)
-
-#### House Band Page: Desktop View
-![Desktop view of the home page](assets/images/house-band-wire.png)
-
-#### Contact Page: Desktop View
-![Desktop view of the home page](assets/images/contact-wire.png)
-
-#### Mobile View
-![View of the mobile pages](assets/images/mobile-view-wire.png)
-
 ## Features
 ### Existing Features
-
-- The site consists of 4 pages:
-    - Home
-    - House Band
-    - Contact
-    - Thank you page
-- All pages contain and are accesible via the navigation bar at the top of the page, except the thank you page which is displayed once you fill out the contact form.
 
 #### Navigation Bar
 - The nagivation menu is fully responsive, with different views for:
@@ -221,6 +229,11 @@ While designing and coding the site I have tried to be as consious about the usa
 - Ensuring there is good contrast between the background images/colors and the forground text
 - Making the menus accesible and indication what page the site in currently displaying
 
+### Future Features
+
+- A video of the house band playing
+- 
+
 ## Technologies Used
 
 ### Languages
@@ -285,3 +298,10 @@ GitHub pages was used to deploy the live site as follows:
 6. Select the `main` and `/root` dropdown menu options
 7. Click `save` and after a few minutes the site was live 
 
+## Credits
+
+### Content
+
+### Media
+
+## Acknowledgements
