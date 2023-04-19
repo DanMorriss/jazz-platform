@@ -404,7 +404,8 @@ textarea {
     }
 
     .join-us{
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
     }
 
     #join-us-image {
@@ -444,6 +445,10 @@ textarea {
 @media screen and (max-width: 767px) {
 
     #next-event-info {
+        flex-direction: column;
+    }
+
+    .join-us{
         flex-direction: column;
     }
 }

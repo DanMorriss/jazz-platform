@@ -229,7 +229,8 @@ The following bugs were encountered during the build of the site:
 - Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
 - To improve the ligthouse score I added more `meta` tags to the site.
 - Hero image was displaying a non-sensical section for mobile devises so moced the position.
-- On a tablet the next event section had lot's of unused space so I added an extra media query for smaller screens.
+- On a tablet the next event and join-us sections had lot's of unused space so I added an extra media query for smaller screens.
+
 
 ### Unsolved Bugs
 There are no known unsolved bugs in the site.
