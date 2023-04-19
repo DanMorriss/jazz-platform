@@ -378,13 +378,21 @@ To clone the project:
 [Back to top](<#contents>)
 ## Credits
 
-[Back to top](<#contents>)
 ### Content
+
+- [This blog article: 36 Perfect Font Pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120) helped me pick matching fonts from Google Fonts
+- 
 
 [Back to top](<#contents>)
 ### Media
 
 [Back to top](<#contents>)
 ## Acknowledgements
+
+- [Precious Ijege](https://github.com/precious-ijege), my Code Institute Mentor.
+- Kent Yates, for taking the time to test and review my site and suggesting some bug fixes for my house band members links.
+- Selina Sheerin, for taking the time to test and review my site and point out some spelling and grammor errors.
+- Helen Asherson, for taking the time to test and review my site.
+- Abby Humphreys, for taking the time to respond to my peer code review request in slack.
 
 [Back to top](<#contents>)
