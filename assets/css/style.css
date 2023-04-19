@@ -190,7 +190,7 @@ h1, h2, #nav-links {
 #map {
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to top right, #D9C8BF, #D99177, #735448);
+    /* background-image: linear-gradient(to top right, #D9C8BF, #D99177, #735448); */
 }
 
 #map iframe {
