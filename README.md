@@ -63,6 +63,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     - Live improvisational music
     - Musical events
 
+[Back to top](<#contents>)
 ### User Stories
 
 #### Client Goals
@@ -71,19 +72,23 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 - To clearly explain what then Marlborough Jazz Platform is about and how to come to the next event
 - To be able to get in contact with the organizers 
 
+[Back to top](<#contents>)
 #### First Time Visitor Goals
 - Gain an understanding of what the jazz platform is
 - find out how to attend the next event
 - Find out inforrmation on the house band
 - Navigate the site easily
 
+[Back to top](<#contents>)
 #### Returning Visitor Goals
 - Find out what the open numbers for the upcoming night are
 - Find links to the social media accounts
 
+[Back to top](<#contents>)
 #### Frequent Visitor Goals
 - Message the organizers with song suggests and other queestons about the next event
 
+[Back to top](<#contents>)
 ### Site Structure
 
 - The site consists of 4 pages:
@@ -93,20 +98,21 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     - Thank you page
 - All pages contain and are accesible via the navigation bar at the top of the page, except the thank you page which is displayed once you fill out the contact form.
 
+[Back to top](<#contents>)
 ### Wireframes
 
 #### Home Page: Desktop View
 ![Desktop view of the home page](assets/images/home-wire.png)
-
+[Back to top](<#contents>)
 #### House Band Page: Desktop View
 ![Desktop view of the home page](assets/images/house-band-wire.png)
-
+[Back to top](<#contents>)
 #### Contact Page: Desktop View
 ![Desktop view of the home page](assets/images/contact-wire.png)
-
+[Back to top](<#contents>)
 #### Mobile View
 ![View of the mobile pages](assets/images/mobile-view-wire.png)
-
+[Back to top](<#contents>)
 ## Design
 
 ### Color Scheme
@@ -117,17 +123,20 @@ To portray as much information as possible the colours of the site match the moo
 
 The [Adoble Color](https://www.color.adobe.com) website was used for the color palette. 
 
+[Back to top](<#contents>)
 ### Typography
 
 Google fonts was used for the following fonts
 - Playfair Display
 - Raleway
 
+[Back to top](<#contents>)
 ### Imagry
 
 - The live music images were all taken from stock image library in [Canva](https://www.canva.com)
 - The band member images are all creditied below
 
+[Back to top](<#contents>)
 ## Features
 ### Existing Features
 
@@ -152,12 +161,14 @@ __Navigation menu: Tablet view__
 __Navigation menu: Mobile view__
 ![Phone view of the navigation menu](assets/images/nav-phone.png)
 
+[Back to top](<#contents>)
 #### Landing Page - Hero Image
 - The site startis with an image of a double bass player and a drummer performing with overlaying text explaning what the site is for.
 - This section will grab the users attention and give a feel for the atmosphere you can expect at the live event.
 
 ![Hero image and overlaying text](assets/images/hero-section.png)
 
+[Back to top](<#contents>)
 #### Join Us Section
 - The Join us section outlines the reasons for coming to one of the jazz platform nights for both players and audience members.
 - As well as encouraging users to come this gives them a better understanding of what to expect when they do come.
@@ -165,6 +176,7 @@ __Navigation menu: Mobile view__
 
 ![Join us section](assets/images/join-us-section.png)
 
+[Back to top](<#contents>)
 #### The Next Night Section
 - The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
 - The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
@@ -172,12 +184,14 @@ __Navigation menu: Mobile view__
 
 ![The Next Night section](assets/images/the-next-night.png)
 
+[Back to top](<#contents>)
 #### Map
 
 - The interactive map in this section will help people find the venue for the next event.
 
 ![The Next Night section](assets/images/map.png)
 
+[Back to top](<#contents>)
 #### Footer
 - All the pages in the site have links to all the platforms social media accounts:
     - Facebook
@@ -187,6 +201,7 @@ __Navigation menu: Mobile view__
 
 ![Footer with social links](assets/images/footer.png)
 
+[Back to top](<#contents>)
 #### House Band
 - The house band page has an small bio at the top of the page instoducing the band as a whole, this should build anticipation and excitement for and encourage the viewer to read the individual bios of the members of the house band including:
     - Miles Davis: Trumpet
@@ -203,6 +218,7 @@ __House Band: Desktop View__
 __House Band: Mobile View__
 ![Mobile view of the house band page](assets/images/house-band-mobile.png)
 
+[Back to top](<#contents>)
 #### Contact Form
 - To open up communication with people interested in coming to one of the events there is a contact form asking:
     - First Name
@@ -216,11 +232,13 @@ __House Band: Mobile View__
 
 ![Contact Form](assets/images/contact-form.png)
 
+[Back to top](<#contents>)
 #### Contact Form Sucess Page
 - Once a user has successfully filled out the contact form they are redirected to this page letting them know they have been successful.
 
 ![Contact Form success page](assets/images/success-page.png)
 
+[Back to top](<#contents>)
 ### Accesibility
 
 While designing and coding the site I have tried to be as consious about the usabillity of the site for users of all tipes, including screen readers. This includes:
@@ -229,17 +247,21 @@ While designing and coding the site I have tried to be as consious about the usa
 - Ensuring there is good contrast between the background images/colors and the forground text
 - Making the menus accesible and indication what page the site in currently displaying
 
+[Back to top](<#contents>)
 ### Future Features
 
 - A video of the house band playing
 - 
 
+[Back to top](<#contents>)
 ## Technologies Used
 
+[Back to top](<#contents>)
 ### Languages
 - HTML
 - CSS
 
+[Back to top](<#contents>)
 ### Libraries & Programs
 - Balsamiq: used for the wireframes
 - Gitpod: used to write the code
@@ -254,6 +276,7 @@ While designing and coding the site I have tried to be as consious about the usa
 - W3C HTML checker: to check the HTML
 - W3C CSS checker: to check the CSS
 
+[Back to top](<#contents>)
 ## Testing
 
 Testing using the Google Chrome Dev Tools was used throught the build of the site. Below you can see the results of the W3C HTML and CSS checksrs for the finshed site.
@@ -266,6 +289,7 @@ Testing using the Google Chrome Dev Tools was used throught the build of the sit
 
 ![W3C CSS Checker, no faults found](assets/images/css-validation.png)
 
+[Back to top](<#contents>)
 ## Bugs
 
 ### Solved Bugs
@@ -284,9 +308,11 @@ The following bugs were encountered during the build of the site:
 - Hero image was displaying a non-sensical section for mobile devises so moced the position.
 - On a tablet the next event and join-us sections had lot's of unused space so I added an extra media query for smaller screens.
 
-
+[Back to top](<#contents>)
 ### Unsolved Bugs
 There are no known unsolved bugs in the site.
+
+[Back to top](<#contents>)
 ## Deployment
 
 GitHub pages was used to deploy the live site as follows:
@@ -298,10 +324,16 @@ GitHub pages was used to deploy the live site as follows:
 6. Select the `main` and `/root` dropdown menu options
 7. Click `save` and after a few minutes the site was live 
 
+[Back to top](<#contents>)
 ## Credits
 
+[Back to top](<#contents>)
 ### Content
 
+[Back to top](<#contents>)
 ### Media
 
+[Back to top](<#contents>)
 ## Acknowledgements
+
+[Back to top](<#contents>)
