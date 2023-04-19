@@ -166,7 +166,7 @@ h1, h2, #nav-links {
     background-color: #735448cb;
     background-image: url(../images/hero-image2.jpg);
     background-blend-mode: multiply;
-    padding: 20px 20px 200px 20px;
+    padding: 20px;
     background-size: cover;
     color: #D9C8BF;
 }
@@ -190,7 +190,7 @@ h1, h2, #nav-links {
 #map {
     display: flex;
     justify-content: center;
-    /* background-image: linear-gradient(to top right, #D9C8BF, #D99177, #735448); */
+    padding-top: 20px;
 }
 
 #map iframe {
@@ -393,6 +393,14 @@ textarea {
 
     #nav-logo {
         margin-left: 5px;
+    }
+
+    #hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image3.jpg');
+    background-size: cover;
+    background-position-x: 70%;
     }
 
     .join-us{
