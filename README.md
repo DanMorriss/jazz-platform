@@ -166,7 +166,7 @@ __Navigation menu: Mobile view__
 - The site startis with an image of a double bass player and a drummer performing with overlaying text explaning what the site is for.
 - This section will grab the users attention and give a feel for the atmosphere you can expect at the live event.
 
-![Hero image and overlaying text](assets/images/hero-section.png)
+![Hero image and overlaying text on desktop and mobile](assets/images/hero-dm.png)
 
 [Back to top](<#contents>)
 #### Join Us Section
@@ -174,7 +174,7 @@ __Navigation menu: Mobile view__
 - As well as encouraging users to come this gives them a better understanding of what to expect when they do come.
 - The three collumns in this section stack for smaller screens to increase userbillity.
 
-![Join us section](assets/images/join-us-section.png)
+![Join us section on a desktop and mobile](assets/images/join-us-dm.png)
 
 [Back to top](<#contents>)
 #### The Next Night Section
@@ -183,7 +183,7 @@ __Navigation menu: Mobile view__
 - The two collumns in this section stack for smaller screens to increase userbillity.
 - The interactive map in this section will help people find the venue for the next event.
 
-![The Next Night section](assets/images/next-night.png)
+![The Next Night section on a desktop and mobile](assets/images/next-night-dm.png)
 [Back to top](<#contents>)
 #### Footer
 - All the pages in the site have links to all the platforms social media accounts:
