@@ -8,6 +8,46 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 
 ![Responsive mockup](assets/images/marlborough-jazz-platform-mockup.png)
 
+## Contents
+
+* [**User Experience (UX)**](<#user-experience-ux>)
+    * [Initial Discussion](<#initial-discussion>)
+    * [User Stories](<#user-stories>)
+        * [Client Goals](#client-goals)
+        * [First Time Visitor Goals](<#first-time-visitor-goals>)
+        * [Returning Visitor Goals](<#returning-visitor-goals>)
+        * [Frequent Visitor Goals](<#frequent-visitor-goals>)
+* [**Design**](<#design>)
+    * [Color Scheme](<#color-scheme>)
+    * [Typography](<#typography>)
+    * [Imagry](<#imagry>)
+    * [Wireframes](<#wireframes>)
+        * [Home Page: Desktop View](<#home-page-desktop-view>)
+        * [House band Page: Desktop view](<#house-band-page-desktop-view>)
+        * [Contact Page: Desktop View](<#contact-page-desktop-view>)
+        * [Mobile View](<#mobile-view>)
+* [**Features**](#features)
+    * [Existing Features](<#existing-features>)
+        * [Navigation Bar](<#navigation-bar>)
+        * [Landing Page - Hero Image](<#landing-page---hero-image>)
+        * [Join Us Section](<#join-us-section>)
+        * [The Next Night Section](<#the-next-night-section>)
+        * [Footer](<#footer>)
+        * [House Band](<#house-band>)
+        * [Contact Form](<#contact-form>)
+        * [Contact Form Sucess Page](<#contact-form-sucess-page>)
+    * [Accesibility](<#accesibility>)
+* [**Technologies Used**](<#technologies-used>)
+    * [Languages](<#languages>)
+    * [Libraries & Programs](<#libraries--programs>)
+* [**Testing**](<#testing>)
+    * [W3C HTML Checker](<#w3c-html-checker>)
+    * [W3C CSS Checker](<#w3c-css-checker>)
+* [**Bugs**](<#bugs>)
+    * [Solved Bugs](<#solved-bugs>)
+    * [Unsolved Bugs](<#unsolved-bugs>)
+* [**Deployment**](<#deployment>)
+
 ## User Experience (UX)
 
 ### Initial Discussion
@@ -117,7 +157,7 @@ __Navigation menu: Mobile view__
 
 ![Join us section](assets/images/join-us-section.png)
 
-#### The Next night Section
+#### The Next Night Section
 - The Next Night Section gives more information on what to ecpect for one of the events. It outlines the time, date and location of the event as well as the 3 open numbers that performers can join in with.
 - The background image in this section continues to enhance the antosphere that can be expected at one of the live events.
 - The two collumns in this section stack for smaller screens to increase userbillity.
