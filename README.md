@@ -205,11 +205,7 @@ __Navigation menu: Mobile view__
 - On a desktop and laptop this page will alternate between the image of the band member oeing on the left and the bio on the right to the image being on the left and the bio on the right. But, for smaller screen sizes sll the information will stack to make it easier to read.
 - The band members names are clickable links to theri official webites or wikipedia pages that have an underlien affect when hovered over. This is to build continuity between the navigation section of the site.
 
-__House Band: Desktop View__
-![Desktop view of the house band page](assets/images/house-band-desktop.png)
-
-__House Band: Mobile View__
-![Mobile view of the house band page](assets/images/house-band-mobile.png)
+![Desktop view of the house band page](assets/images/house-band-dm.png)
 
 [Back to top](<#contents>)
 #### Contact Form
@@ -281,6 +277,10 @@ Testing using the Google Chrome Dev Tools was used throught the build of the sit
 ### W3C CSS Checker
 
 ![W3C CSS Checker, no faults found](assets/images/css-validation.png)
+
+### Lighthouse
+
+![Lighthouse test results](assets/images/lighthouse.png)
 
 [Back to top](<#contents>)
 ## Bugs
