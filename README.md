@@ -160,11 +160,8 @@ the right side of the menu link to the other sites pages and drop below the logo
 __Navigation menu: Desktop view__
 ![Desktop view of the navigation menu](assets/images/nav-desktop.png)
 
-__Navigation menu: Tablet view__
+__Navigation menu: Tablet & Mobile View__
 ![Tablet view of the navigation menu](assets/images/nav-tablet.png)
-  
-__Navigation menu: Mobile view__
-![Phone view of the navigation menu](assets/images/nav-phone.png)
 
 [Back to top](<#contents>)
 #### Landing Page - Hero Image
