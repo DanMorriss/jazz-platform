@@ -381,7 +381,7 @@ To clone the project:
 ### Content
 
 - [This blog article: 36 Perfect Font Pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120) helped me pick matching fonts from Google Fonts
-- 
+- [Chat GPT](https://openai.com/blog/chatgpt) for help writing the band bio's
 
 [Back to top](<#contents>)
 ### Media

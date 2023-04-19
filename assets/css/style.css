@@ -451,4 +451,8 @@ textarea {
     .join-us{
         flex-direction: column;
     }
+
+    h1 {
+        font-size: 1.1em;
+    }
 }
