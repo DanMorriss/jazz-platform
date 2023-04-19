@@ -251,7 +251,7 @@ While designing and coding the site I have tried to be as consious about the usa
 ### Future Features
 
 - A video of the house band playing
-- 
+- A shop section for merchandice
 
 [Back to top](<#contents>)
 ## Technologies Used
@@ -263,18 +263,18 @@ While designing and coding the site I have tried to be as consious about the usa
 
 [Back to top](<#contents>)
 ### Libraries & Programs
-- Balsamiq: used for the wireframes
-- Gitpod: used to write the code
-- Github: used to store the code
-- Google fonts: for the fonts
-- Canva: for the images
-- Font Awesome: for the icons
+- [Balsamiq](https://balsamiq.com/): used for the wireframes
+- [Gitpod](https://www.gitpod.io/): used to write the code
+- [Github](https://github.com/): used to store the code
+- [Google Fonts](https://fonts.google.com/): for the fonts
+- [Canva](https://www.canva.com/): for the images
+- [Font Awesome](https://fontawesome.com/): for the icons
 - Google Developer Tools: to debug, troubleshoot and test the site
-- Am I Responsive?: Dor the display image across devices
-- Adobe Color: for the color pallet 
-- Web Aim: To check the contract for accesibility
-- W3C HTML checker: to check the HTML
-- W3C CSS checker: to check the CSS
+- [Am I Responsive?](https://ui.dev/amiresponsive): Dor the display image across devices
+- [Adobe Color](https://color.adobe.com/create/color-wheel): for the color pallet 
+- [Web Aim](https://webaim.org/): To check the contract for accesibility
+- [W3C HTML Validator](https://validator.w3.org/): to check the HTML
+- [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/): to check the CSS
 
 [Back to top](<#contents>)
 ## Testing
@@ -283,7 +283,9 @@ Testing using the Google Chrome Dev Tools was used throught the build of the sit
 
 ### W3C HTML Checker
 
+#### Home Page
 ![W3C HTML Checker, no faults found](assets/images/html-validation.png)
+
 
 ### W3C CSS Checker
 
