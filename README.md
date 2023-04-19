@@ -43,8 +43,14 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     * [Languages](<#languages>)
     * [Libraries & Programs](<#libraries--programs>)
 * [**Testing**](<#testing>)
-    * [W3C HTML Checker](<#w3c-html-checker>)
-    * [W3C CSS Checker](<#w3c-css-checker>)
+    * [Code Validation](<>)
+        * [W3C HTML Checker](<#w3c-html-checker>)
+        * [W3C CSS Checker](<#w3c-css-checker>)
+        * [Lighthouse](<#lighthouse>)
+    * [Responsiveness Test](<>)
+    * [Browser Compatibility](<>)
+    * [Testing User Stories](<>)
+
 * [**Bugs**](<#bugs>)
     * [Solved Bugs](<#solved-bugs>)
     * [Unsolved Bugs](<#unsolved-bugs>)
@@ -244,8 +250,6 @@ While designing and coding the site I have tried to be as consious about the usa
 
 [Back to top](<#contents>)
 ## Technologies Used
-
-[Back to top](<#contents>)
 ### Languages
 - HTML
 - CSS
@@ -268,19 +272,49 @@ While designing and coding the site I have tried to be as consious about the usa
 [Back to top](<#contents>)
 ## Testing
 
+### Code Validation
 Testing using the Google Chrome Dev Tools was used throught the build of the site. Below you can see the results of the W3C HTML and CSS checksrs for the finshed site.
 
-### W3C HTML Checker
+#### W3C HTML Checker
 
 ![W3C HTML Checker, no faults found](assets/images/html-validation.png)
 
-### W3C CSS Checker
+#### W3C CSS Checker
 
 ![W3C CSS Checker, no faults found](assets/images/css-validation.png)
 
-### Lighthouse
+#### Lighthouse
 
 ![Lighthouse test results](assets/images/lighthouse.png)
+
+[Back to top](<#contents>)
+### Responsiveness Test
+
+Responsive testing was done using [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/) and real-world tests were carried out on an MacBook Pro 16-inch and iPhone 13.
+- All navigation links on all pages work as expected
+- All social links work on all pages work as expected
+- Link to all external band member's sites work, opening up in a new tab
+- All the images render correctly
+- There is no witespace around the page
+
+#### Contact Form
+- First Name needs to be filled in
+- Last Name needs to be filled in
+- Email address needs to be filled in including an @ symbol
+- An Instrument option need to be selected
+- Once the form is filled in correctly you are succesfully sent to the success page
+
+[Back to top](<#contents>)
+### Browser Compatibility
+
+The site was tested on the following browsers without any issues. Functuanility and responsivness were consistant across browsers.
+- Google Chrome
+- Safari
+- Firefox
+
+[Back to top](<#contents>)
+### Testing User Stories
+
 
 [Back to top](<#contents>)
 ## Bugs
