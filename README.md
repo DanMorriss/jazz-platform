@@ -228,6 +228,7 @@ The following bugs were encountered during the build of the site:
 - The `H1` on the navigation menu was too big for mobile devices, I used a `@media` query to reduce it for smaller screens.
 - Once the contact form had been filled out it was not sending you to the success.html page. this was fixed by removing the method tag having the acion tag set to the success.html.
 - To improve the ligthouse score I added more `meta` tags to the site.
+- Hero image was displaying a non-sensical section for mobile devises so moced the position.
 
 ### Unsolved Bugs
 There are no known unsolved bugs in the site.
