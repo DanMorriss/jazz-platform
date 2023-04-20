@@ -251,21 +251,6 @@ While designing and coding the site I have tried to be as conscious about the us
 - CSS
 
 [Back to top](<#contents>)
-### Libraries & Programs
-- [Balsamiq](https://balsamiq.com/): used for the wireframes
-- [Gitpod](https://www.gitpod.io/): used to write the code
-- [Github](https://github.com/): used to store the code
-- [Google Fonts](https://fonts.google.com/): for the fonts
-- [Canva](https://www.canva.com/): for the images
-- [Font Awesome](https://fontawesome.com/): for the icons
-- [Google DevTools](https://developer.chrome.com/docs/devtools/): to debug, troubleshoot and test the site
-- [Am I Responsive?](https://ui.dev/amiresponsive): For the display image across devices
-- [Adobe Color](https://color.adobe.com/create/color-wheel): for the color pallet 
-- [Web Aim](https://webaim.org/): To check the contract for accessibility
-- [W3C HTML Validator](https://validator.w3.org/): to check the HTML
-- [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/): to check the CSS
-
-[Back to top](<#contents>)
 ## Testing
 
 ### Code Validation
@@ -374,13 +359,40 @@ To clone the project:
 [Back to top](<#contents>)
 ## Credits
 
-### Content
-
+### Resources
+- [Balsamiq](https://balsamiq.com/): used for the wireframes
+- [Gitpod](https://www.gitpod.io/): used to write the code
+- [Github](https://github.com/): used to store the code
+- [Google Fonts](https://fonts.google.com/): for the fonts
+- [Canva](https://www.canva.com/): for the images
+- [Font Awesome](https://fontawesome.com/): for the icons
+- [Google DevTools](https://developer.chrome.com/docs/devtools/): to debug, troubleshoot and test the site
+- [Am I Responsive?](https://ui.dev/amiresponsive): For the display image across devices
+- [Adobe Color](https://color.adobe.com/create/color-wheel): for the color pallet 
+- [Web Aim](https://webaim.org/): To check the contract for accessibility
+- [W3C HTML Validator](https://validator.w3.org/): to check the HTML
+- [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/): to check the CSS
 - [This blog article: 36 Perfect Font Pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120) helped me pick matching fonts from Google Fonts
-- [Chat GPT](https://openai.com/blog/chatgpt) for help writing the band bio's
+- [Kevin Powell's YouTube Channel](https://www.youtube.com/@KevinPowell) was used to learn more about flexbox
+- [Stack Overflow]() for general troubleshooting
+
+
+### Content
+- [Chat GPT](https://openai.com/blog/chatgpt) was used for help writing the band bio's
 
 [Back to top](<#contents>)
 ### Media
+- The map is from [Google Maps](https://www.google.com/maps)
+- All the images on the homepage came from [Canva](https://www.canva.com)'s stock library.
+- The Miles Davis image came from [his website](https://www.milesdavis.com/)
+- The Django Reinhardt image came from [this BAMF Style article](https://bamfstyle.com/2020/01/23/django-cream-suit/) 
+- The Herbie Hancock image was taken by Norman Seeff for [this article](https://www.beachamjournal.com/journal/2021/04/herbie-hancock-is-81-years-ago-today.html)
+- The Jaco Pastorius image was taken from [Google](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT3QsdNDBt31FDzz5YKI6NU84TQ7Ro0GbHayD4C9-oyS7-gBHEnb2gFSFd79N84YfYvwP3ml715oRpuynE
+)
+- The Steve Gadd image was taken from [this article in Drummer World](https://www.drummerworld.com/drummers/Steve_Gadd.html).
+
+### Code Used
+- Image zoom used on the hero-image was taken from Love Running Walkthrough.
 
 [Back to top](<#contents>)
 ## Acknowledgements
@@ -390,5 +402,8 @@ To clone the project:
 - Selina Sheerin, for taking the time to test and review my site and point out some spelling and grammar errors.
 - Helen Asherson, for taking the time to test and review my site.
 - Abby Humphreys, for taking the time to respond to my peer code review request in slack.
+- JarekB-dev's [Kitchen Makers](https://github.com/JarekB-dev/KitchenMakers) project as was used for inspiration 
+- Kera Kudmore's [Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club) was used for inspiration on how to write a good reameme file
+- EwanColquhoun's [Wasa Woods](https://github.com/EwanColquhoun/wawaswoods) was used as a reference for a good readme file
 
 [Back to top](<#contents>)
