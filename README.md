@@ -41,7 +41,6 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     * [Future Features](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
     * [Languages](<#languages>)
-    * [Libraries & Programs](<#libraries--programs>)
 * [**Testing**](<#testing>)
     * [Code Validation](<>)
         * [W3C HTML Checker](<#w3c-html-checker>)
@@ -55,6 +54,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
     * [Unsolved Bugs](<#unsolved-bugs>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
+    * [Resources](<#resources>)
     * [Content](<#content>)
     * [Media](<#media>)
 * [**Acknowledgements**](<#acknowledgements>)
@@ -391,6 +391,7 @@ To clone the project:
 )
 - The Steve Gadd image was taken from [this article in Drummer World](https://www.drummerworld.com/drummers/Steve_Gadd.html).
 
+[Back to top](<#contents>)
 ### Code Used
 - Image zoom used on the hero-image was taken from Love Running Walkthrough.
 
