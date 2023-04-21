@@ -266,7 +266,7 @@ Testing using the Google Chrome Dev Tools was used throughout the build of the s
 
 #### Lighthouse
 
-![Lighthouse test results](assets/images/lighthouse.png)
+![Lighthouse test results](assets/images/lighthouse2.png)
 
 [Back to top](<#contents>)
 ### Responsiveness Test
@@ -319,6 +319,7 @@ The following bugs were encountered during the build of the site:
 - Once the contact form had been filled out it was not sending you to the success.html page. This was fixed by removing the method tag and setting the action tag to `success.html`.
 - Hero image was displaying a non-sensical section for mobile devices so I moved the position.
 - On a tablet the next event and join-us sections had lot's of unused space so I added an extra media query for smaller screens.
+- Added a title to the map's iframe to increase lighthouse score.
 
 [Back to top](<#contents>)
 ### Unsolved Bugs
