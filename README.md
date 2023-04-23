@@ -66,7 +66,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 - It is aimed at fans of:
     - Jazz music 
     - Live improvisational music
-    - Musical events
+    - Musical events.
 
 [Back to top](<#contents>)
 ### User Stories
@@ -80,7 +80,7 @@ The Marlborough Jazz Platform is a monthly live event where jazz musicians come 
 [Back to top](<#contents>)
 #### First Time Visitor Goals
 - Gain an understanding of what the jazz platform is.
-- find out how to attend the next event.
+- Find out how to attend the next event.
 - Find out information on the house band.
 - Navigate the site easily.
 
