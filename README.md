@@ -247,8 +247,8 @@ While designing and coding the site I have tried to be as conscious about the us
 [Back to top](<#contents>)
 ## Technologies Used
 ### Languages
-- HTML
-- CSS
+- HTML - for the content of the site.
+- CSS - for the styling of the site.
 
 [Back to top](<#contents>)
 ## Testing
